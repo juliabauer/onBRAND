@@ -1,3 +1,21 @@
 body{
-	background-color: #FCDFED;
+	margin: 0;
+	font-family:Georgia;
 }
+
+header{
+	background-color: #FCDFED;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-family: Georgia;
+}
+
+header img{
+	border-radius: 300px;
+	width: 600px;
+	border:10px solid #D8E8F9;
