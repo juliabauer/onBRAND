@@ -1,0 +1,15 @@
+h1{
+	font-size:30px;
+	color: #FD877C
+}
+h2{
+	font-size:20px;
+	color: #FDAD7C;
+}
+p{
+	font-size:20px;
+	color: #FDAD7C;
+}
+.uppercase{
+	text-transform: uppercase;
+}
