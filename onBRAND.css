@@ -5,7 +5,7 @@ body{
 }
 
 header{
-	background-color: #FCDFED;
+	background-color: #F9E5D8;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -23,13 +23,14 @@ header h1{
 }
 
 header img{
-	border-radius: 300px;
-	width: 600px;
+	border-radius: 200px;
+	width: 400px;
 	text-align: center;
-	border:10px solid #D8E8F9;
+	border:10px solid white;
 }
 
 main{
+	background-color: #EBC8C4;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
@@ -43,7 +44,12 @@ main img{
 
 h2{
 	font-size: 35px;
-	color: lightblue;
+	color: white;
+	text-align: center;
+}
+
+p{
+	text-align: center;
 }
 
 a{
@@ -51,7 +57,7 @@ a{
 }
 
 footer{
-	background-color: #FCDFED;
+	background-color: #F9E5D8;
 	text-align: center;
 	color: white;
 	padding: 50px;
